@@ -6,8 +6,6 @@
 
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Travel)](https://git.io/typing-svg)
 
-  </div>
-
   ### HTML Website 
 
   ![License](https://img.shields.io/github/license/OnePunchMan2718/AniPC?color=598e3c&style=for-the-badge)
@@ -15,13 +13,14 @@
   ![Downloads](https://img.shields.io/github/downloads/OnePunchMan2718/AniPC/total?color=598e3c&style=for-the-badge)
 
   [![Discord Server Invite](https://discord.com/api/guilds/876398373962412102/widget.png?style=banner2)](https://discord.gg/9qKScMjdPF)
+
 </div>
 
 A Tourism Website
 
 ## 	Check It Out
 
-[Click Here](https://onepunchman2718.github.io/Parallax-Website/)
+[Click Here](https://onepunchman2718.github.io/Travel/)
 
 ## Contributing
 
